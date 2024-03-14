@@ -1,4 +1,4 @@
-									                                          Fast Tag Fraud Detection
+			           Fast Tag Fraud Detection
 
 
 ## Overview
